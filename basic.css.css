@@ -1,23 +1,23 @@
 .ul 
 {
-    list-style-type: none;
-    margin-top: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: pink;
-    position: fixed;
-    top: 0;
-    width: 100%;
+	list-style-type: none;
+   	margin-top: 0;
+   	padding: 0;
+   	overflow: hidden;
+   	background-color: pink;
+   	position: fixed;
+   	top: 0;
+	width: 100%;
 	margin-left: 10px;
 	border-left: 4px solid rgb(0, 0, 0);
 }
 .li
 {
-    float: left;
+    	float: left;
 	border-right: 1px solid #bbb;
 	display: block;
-    padding: 8px;
-    background-color: #dddddd;
+    	padding: 8px;
+    	background-color: #dddddd;
 }
 #cite
 {
@@ -43,8 +43,8 @@ body
 {
 	background-image: url(background.png);
 	background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
+    	background-position: center;
+    	background-attachment: fixed;
 	background-size: 100%;
 	font-size: 16pt;
 	margin: 30px;
